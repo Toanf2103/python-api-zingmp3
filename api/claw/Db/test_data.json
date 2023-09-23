@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ZZ9IACU9",
+    "name": "Anh Thanh Niên",
+    "duration": 231,
+    "source": "https://a128-zmp3.zmdcdn.me/74a0b0e1fe35315f656797adbccf39cc?authen=exp=1695606767~acl=/74a0b0e1fe35315f656797adbccf39cc/*~hmac=c46c5895793ed5ae97b13aacce5e969e&fs=MTY5NTQzMzk2NzU3OHx3ZWJWNHwxLjU1LjIwMi43",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/2/1/f/d21f85578c3639be3a615808ece59e7a.jpg?fs=MTY5NTQzMzk2NzU3N3x3ZWJWNHwxLjU1LjIwMi43",
+    "artist": {
+      "id": "IW6W8IA9",
+      "name": "HuyR",
+      "link": "https://mp3.zing.vn/nghe-si/HuyR/bai-hat?page=1",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/5/2/5/1525d4214c0c500d8bb4df2552f19fb0.jpg"
+    }
+  },
+  {
+    "id": "ZW9BID0A",
+    "name": "Cô Gái M52",
+    "duration": 213,
+    "source": "https://a128-zmp3.zmdcdn.me/07dda8eb8ff81f898729da4aa5ed54b7?authen=exp=1695600637~acl=/07dda8eb8ff81f898729da4aa5ed54b7/*~hmac=473108200fe2c37012e857a1d4a0cc39&fs=MTY5NTQyNzgzNzg2N3x3ZWJWNHwxMTYdUngOTmUsICdUngMTA3LjE3OA",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/f/f/ff44d05771e686143a49b6a73dd844bb_1519265212.jpg?fs=MTY5NTQyNzgzNzg2NXx3ZWJWNHwxMTYdUngOTmUsICdUngMTA3LjE3OA",
+    "artist": {
+      "id": "IW6W8IA9",
+      "name": "HuyR",
+      "link": "https://mp3.zing.vn/nghe-si/HuyR/bai-hat?page=1",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/5/2/5/1525d4214c0c500d8bb4df2552f19fb0.jpg"
+    }
+  },
+  {
+    "id": "ZZ9IACU8",
+    "name": "Cô Gái Vàng",
+    "duration": 228,
+    "source": "https://a128-zmp3.zmdcdn.me/67af38576c9b7a05d201598bbdc90fbc?authen=exp=1695606747~acl=/67af38576c9b7a05d201598bbdc90fbc/*~hmac=4929e09bad080db0c84d0741660e3082&fs=MTY5NTQzMzk0NzgyNnx3ZWJWNHwxLjU1LjIwMi43",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/b/6/a/1b6a724e5d7b0a541797cda823239925.jpg?fs=MTY5NTQzMzk0NzgyNHx3ZWJWNHwxLjU1LjIwMi43",
+    "artist": {
+      "id": "IW6W8IA9",
+      "name": "HuyR",
+      "link": "https://mp3.zing.vn/nghe-si/HuyR/bai-hat?page=1",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/5/2/5/1525d4214c0c500d8bb4df2552f19fb0.jpg"
+    }
+  },{
+    "id": "ZW9DA69I",
+    "name": "Yêu Anh Em Nhé",
+    "duration": 275,
+    "source": "https://a128-zmp3.zmdcdn.me/a28e9c6d142d352a635bd68cb6825c41?authen=exp=1695606748~acl=/a28e9c6d142d352a635bd68cb6825c41/*~hmac=3c8a67f9f6e2038ba664dbe9d3ee4f28&fs=MTY5NTQzMzk0ODM1NHx3ZWJWNHwxLjU1LjIwMi43",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/f/3/3/cf3338393c8a9167f5b2b98b6634d0ca.jpg?fs=MTY5NTQzMzk0ODM1MXx3ZWJWNHwxLjU1LjIwMi43",
+    "artist": {
+      "id": "IW6W8IA9",
+      "name": "HuyR",
+      "link": "https://mp3.zing.vn/nghe-si/HuyR/bai-hat?page=1",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/5/2/5/1525d4214c0c500d8bb4df2552f19fb0.jpg"
+    }
+  }
+]
