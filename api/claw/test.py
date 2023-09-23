@@ -1,3 +1,12 @@
-a = "Mưa Gió Muôn Trùng (Original Soundtrack From \"Tân Dòng Sông Ly Biệt\")"
-a = a.replace("\"","'")
-print(a)
+a=[{
+    'slug':'toanf',
+    'id':'toanf-2103'
+},
+{
+    'slug':'toanf',
+    'id':'toanf-2103'
+}]
+slug={
+    'slug':'toanf',
+    'id':'toanf-2101'
+}
